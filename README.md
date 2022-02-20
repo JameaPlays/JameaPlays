@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JameaPlays
+- 👋 Hi, I’m Chua Yi Jin, a full-time Finance Executive in Malaysia.
 - 👀 I’m interested in SQL, Python, R, web development (Javascript), ethical hacking, cybersecurity.
-- 🌱 I’m currently learning SQL, Python after this.
-- 💞️ I’m looking to collaborate on N/A
+- 🌱 I’m currently learning Python, have beginner knowledge in SQL, R and data science.
+- 💞️ I’m looking to collaborate on nothing yet as I'm not well versed in the necessary skillsets yet.
 - 📫 How to reach me via github
 
 <!---
